@@ -1,0 +1,28 @@
+.bg{
+    background-color: pink;
+    height: 100%;
+}
+
+.container{
+    position: fixed;
+    width: 500px;
+    height: 300px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: skyblue;
+}
+
+.logintitle{
+    width: 100%;
+    line-height: 50px;
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.form{
+    width: 100%;
+    padding: 10px;
+}
